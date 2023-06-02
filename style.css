@@ -39,7 +39,7 @@ body {
 }
 .center-box {
     width: 250px;
-    height: 54%;
+    height: auto;
     background-color: hsl(0, 0%, 100%);
     padding: 16px;
     border-radius: 16px;
