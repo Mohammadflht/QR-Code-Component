@@ -2,7 +2,6 @@
     .center-box h3 {
         display: none;
     }
-
 }
 @media only screen and (max-height: 690px) {
     .center-box h6 {
@@ -14,14 +13,13 @@
     .attribution {
         display: none;
     }
-
 }
 
 @font-face {
     font-family: "Outfit";
     src: url(Font/Outfit-VariableFont_wght.ttf);
 }
-*{
+* {
     margin: 0;
     padding: 0;
     text-decoration: none;
@@ -70,10 +68,4 @@ body {
     margin: auto;
     font-size: 10px;
     padding-top: 12px;
-    
 }
-
-
-
-
-
