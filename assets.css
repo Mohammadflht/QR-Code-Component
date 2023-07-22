@@ -1,10 +1,10 @@
 @media only screen and (max-height: 606px) {
-    .center-box h3 {
+    .qr-code-box h3 {
         display: none;
     }
 }
 @media only screen and (max-height: 690px) {
-    .center-box h6 {
+    .qr-code-box h6 {
         display: none;
     }
 }
