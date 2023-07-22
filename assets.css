@@ -1,0 +1,21 @@
+@media only screen and (max-height: 606px) {
+    .center-box h3 {
+        display: none;
+    }
+}
+@media only screen and (max-height: 690px) {
+    .center-box h6 {
+        display: none;
+    }
+}
+
+@media only screen and (max-height: 768px) {
+    .attribution {
+        display: none;
+    }
+}
+
+@font-face {
+    font-family: "Outfit";
+    src: url(Font/Outfit-VariableFont_wght.ttf);
+}
